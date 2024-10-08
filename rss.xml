@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ ]]></title><description><![CDATA[我们终将上岸,阳光万里]]></description><link>https://it235.com</link><generator>RSS for Node</generator><lastBuildDate>Thu, 13 Apr 2023 16:45:09 GMT</lastBuildDate><atom:link href="https://it235.com/rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[默客聊编程]]></copyright><language><![CDATA[en]]></language><item><title><![CDATA[文本转手写]]></title><description><![CDATA[<div class="custom-block tip"><p class="custom-block-title">简介</p>
+<p>  利用html+css+javaScript将文本转换为手写效果</p>
+</div>
+]]></description><link>https://it235.com/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/%E6%A8%A1%E6%8B%9F%E6%89%8B%E5%86%99/AnalogHandwriting.html</link><guid isPermaLink="true">https://it235.com/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/%E6%A8%A1%E6%8B%9F%E6%89%8B%E5%86%99/AnalogHandwriting.html</guid><category><![CDATA[小项目]]></category><dc:creator><![CDATA[默客]]></dc:creator><pubDate>Thu, 13 Apr 2023 13:11:05 GMT</pubDate></item><item><title><![CDATA[javaScript]]></title><description><![CDATA[<div class="custom-block tip"><p class="custom-block-title">简介</p>
+<p>  一种运行在客户端(浏览器)的编程语言，实现人机交互的效果</p>
+</div>
+]]></description><link>https://it235.com/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80-javaScript/javaScript.html</link><guid isPermaLink="true">https://it235.com/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80-javaScript/javaScript.html</guid><category><![CDATA[前端]]></category><dc:creator><![CDATA[默客]]></dc:creator><pubDate>Fri, 07 Apr 2023 12:35:15 GMT</pubDate></item><item><title><![CDATA[Scratch图形化]]></title><description><![CDATA[<div class="custom-block tip"><p class="custom-block-title">软件介绍</p>
+<p>  Scratch 是<a href="https://baike.baidu.com/item/%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2?fromModule=lemma_inlink" target="_blank" rel="noopener noreferrer">麻省理工学院<OutboundLink/></a>开发的一款简易图形化编程工具。这个软件的开发团队称为“终身幼儿园团队”（Lifelong Kindergarten Group）。几乎所有的孩子都会一眼喜欢上这个软件，建立起做编程的欲望。
+制作中的程序只能在软件环境下运行，发布后的程序则是在网页内运行的。</p>
+</div>
+]]></description><link>https://it235.com/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/%E5%9B%BE%E5%BD%A2%E5%8C%96%E7%BC%96%E7%A8%8B/Scratch.html</link><guid isPermaLink="true">https://it235.com/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/%E5%9B%BE%E5%BD%A2%E5%8C%96%E7%BC%96%E7%A8%8B/Scratch.html</guid><category><![CDATA[图形化]]></category><dc:creator><![CDATA[默客]]></dc:creator><pubDate>Thu, 06 Apr 2023 18:25:05 GMT</pubDate></item><item><title><![CDATA[html]]></title><link>https://it235.com/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80-HTML/html.html</link><guid isPermaLink="true">https://it235.com/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80-HTML/html.html</guid><category><![CDATA[前端]]></category><dc:creator><![CDATA[默客]]></dc:creator><pubDate>Wed, 05 Apr 2023 12:35:15 GMT</pubDate></item><item><title><![CDATA[css]]></title><link>https://it235.com/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80-CSS/css.html</link><guid isPermaLink="true">https://it235.com/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80-CSS/css.html</guid><category><![CDATA[前端]]></category><dc:creator><![CDATA[默客]]></dc:creator><pubDate>Wed, 05 Apr 2023 12:35:15 GMT</pubDate></item><item><title><![CDATA[vue]]></title><description><![CDATA[<!-- 
+::: danger 说明
+
+这是前端基础的摘要内容，`vuepress`提供的语法块，这部分内容会显示在首页，不信你去首页看看
+
+[点击免费观看教学视频](<https://ke.qq.com/course/5285550>)
+:::
+
+::: tip 说明
+
+这是分享生活的摘要内容，`vuepress`提供的语法块，这部分内容会显示在首页，不信你去首页看看
+
+[点击免费观看教学视频](<https://ke.qq.com/course/5285550>)
+:::
+
+::: tip 说明
+
+这是分享生活的摘要内容，`vuepress`提供的语法块，这部分内容会显示在首页，不信你去首页看看
+
+[点击免费观看教学视频](<https://ke.qq.com/course/5285550>)
+::: -->
+]]></description><link>https://it235.com/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/vue01.html</link><guid isPermaLink="true">https://it235.com/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80/vue01.html</guid><category><![CDATA[前端]]></category><dc:creator><![CDATA[默客]]></dc:creator><pubDate>Wed, 05 Apr 2023 12:35:15 GMT</pubDate></item><item><title><![CDATA[本站指南]]></title><link>https://it235.com/guide/</link><guid isPermaLink="true">https://it235.com/guide/</guid><dc:creator><![CDATA[默客]]></dc:creator><pubDate>Mon, 06 Jun 2022 00:00:00 GMT</pubDate></item></channel></rss>
